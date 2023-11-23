@@ -83,3 +83,11 @@ issueの切り出し
 #### 11/21
 6h
 正規表現で材料と手順の切り分け、TailwindCSSをUdemyで買ってみた
+
+#### 11/22
+3h
+TailwindCSSやったりした
+
+#### 11/23
+7h
+TailwindCSSやった、明日で終わらせる！
